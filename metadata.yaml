@@ -1,0 +1,26 @@
+_repo: To-Infidelity-and-Back_7495
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lutz, Henry F. (Henry Frey)
+    birthdate: 1868
+    deathdate: 1926
+    gutenberg_agent_id: '2488'
+    url: http://www.gutenberg.org/2009/agents/2488
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian Churches and Churches of Christ'
+- !lcsh 'Lutz, Henry Frey, 1868-1926 -- Biography'
+- !lcsh 'Restoration movement (Christianity)'
+- !lcc 'B'
+- GITenberg
+title: To Infidelity and Back
+url: http://www.gutenberg.org/ebooks/7495
